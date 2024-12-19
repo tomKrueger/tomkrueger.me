@@ -6,6 +6,7 @@
       "name": "startm5",
       "title": "StartM5",
       "styling": {
+        "backgroundColor": "#ffffff",
         "primaryColor": "#9fe870",
         "secondaryColor": "#ffd7ef",
         "successColor": "#3a341c",
@@ -43,7 +44,7 @@
       }
     ],
     "uniqCompNum": 21,
-    "versionPublish": "5.9.18",
+    "versionPublish": "5.9.17",
     "favicon": "@PROJECT_PATH@/assets/images/favicon.ico",
     "mbrsiteDomain": "yadlg6plnx",
     "imageResize": false,
@@ -53,9 +54,7 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false,
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@/dist"
+    "gdpr": false
   },
   "pages": {
     "index.html": {
