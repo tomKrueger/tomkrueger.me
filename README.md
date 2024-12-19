@@ -1,3 +1,7 @@
+
+I publish Mobirise project to the /docs folder. This keeps the source separate from what gets published. GithHub pages only allows publishing /root or /doc so I choose /doc (which now is effectively the /dist folder).  When publishing, it publishes a project.mobirise file also.  Disregard the one in the /docs.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/tomKrueger/Getoutthehouse/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
