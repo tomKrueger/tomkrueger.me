@@ -45,7 +45,7 @@
     "uniqCompNum": 23,
     "versionPublish": "5.9.18",
     "favicon": "@PROJECT_PATH@/assets/images/favicon.ico",
-    "mbrsiteDomain": "yadlg6plnx",
+    "mbrsiteDomain": "n2ecpxtdus",
     "imageResize": false,
     "usedWebp": false,
     "robotsSwitcher": false,
@@ -55,8 +55,9 @@
     "cookiesAlert": false,
     "gdpr": false,
     "publishType": "local",
-    "publishPath": "@PROJECT_PATH@/dist",
-    "screenshot": "screenshot.png"
+    "publishPath": "@PROJECT_PATH@/docs",
+    "screenshot": "screenshot.png",
+    "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-4K6NLTES4G\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-4K6NLTES4G');\n</script>"
   },
   "pages": {
     "index.html": {
