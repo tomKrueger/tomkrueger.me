@@ -1,0 +1,19 @@
+{
+  "name": "tomkrueger.me",
+  "version": "1.0.0",
+  "description": "I publish Mobirise project to the /docs folder. This keeps the source separate from what gets published. GithHub pages only allows publishing /root or /doc so I choose /doc (which now is effectively the /dist folder).  When publishing, it publishes a project.mobirise file also.  Disregard the one in the /docs.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format-html": "prettier --write 'docs/**/*.html'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.4.2"
+  }
+}
