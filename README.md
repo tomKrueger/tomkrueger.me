@@ -1,8 +1,14 @@
+I publish Mobirise project to the /docs folder. This keeps the source separate from what gets published. GithHub pages only allows publishing /root or /doc so I choose /doc (which now is effectively the /dist folder). When publishing, it publishes a project.mobirise file also. Disregard the one in the /docs.
 
-I publish Mobirise project to the /docs folder. This keeps the source separate from what gets published. GithHub pages only allows publishing /root or /doc so I choose /doc (which now is effectively the /dist folder).  When publishing, it publishes a project.mobirise file also.  Disregard the one in the /docs.
+# Manually format all published files
 
+When Mobirise publishes html files to doc they are not formatted the same as what is in GitHub. You need to format each file using Prettier.
+
+Make sure you have Prettier exetension installed.
+Save each file in VS Code that has git changes before committing so we can clearly see the differences.
 
 # Format the published html using prettier settings for consistency
+
 `npm run format-html`
 
 ## Welcome to GitHub Pages
@@ -19,7 +25,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
 
 - Bulleted

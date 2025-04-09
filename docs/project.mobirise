@@ -45,7 +45,7 @@
     "uniqCompNum": 24,
     "versionPublish": "5.9.18",
     "favicon": "@PROJECT_PATH@/assets/images/favicon.ico",
-    "mbrsiteDomain": "n2ecpxtdus",
+    "mbrsiteDomain": "0rfmtwfwli",
     "imageResize": false,
     "usedWebp": false,
     "robotsSwitcher": false,
@@ -61,8 +61,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Tom Krueger",
+        "meta_descr": "CTO | VP of Engineering | SaaS | SOC2",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
